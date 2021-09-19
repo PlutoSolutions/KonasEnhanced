@@ -6,7 +6,7 @@ Konas Client (free & enhanced edition)
 
 mirrors:
 
-[yougame.biz](https://yougame.biz/) / [crystalpvp.ru](https://crystalpvp.ru/konas/) / [plutonium.wtf](https://plutonium.wtf/konas/)
+[yougame.biz](https://yougame.biz/threads/224924/) / [crystalpvp.ru](https://crystalpvp.ru/konas/) / [plutonium.wtf](https://plutonium.wtf/konas/)
 
 #
 # [ info ]
