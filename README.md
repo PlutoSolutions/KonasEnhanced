@@ -1,6 +1,6 @@
 <div align="center">
 
-Konas Client (free & enhanced edition)
+Konas Client (Free & Enhanced Edition™)
 
 ![](https://crystalpvp.ru/konas/jewnas.png)
 
@@ -9,7 +9,7 @@ mirrors:
 [yougame.biz](https://yougame.biz/threads/224924/) / [crystalpvp.ru](https://crystalpvp.ru/konas/) / [plutonium.wtf](https://plutonium.wtf/konas/)
 
 #
-# [ info ]
+# [ Info ]
 Long awaited (not really) free version of [Konas Client](https://konasclient.com/)
 
 I don't have anything to tell you besides that this "not-a-hack-but-an-utility-mod" isn't even worth $5
@@ -26,9 +26,9 @@ I don't have anything to tell you besides that this "not-a-hack-but-an-utility-m
 <div align="center">
 So you save $5 and get: a bad client with bad loader and bad security. I don't think that buying Konas is a wise choice...
 
-Refund it if you can.
+Get a refund if you can.
 
-# [ reasons ]
+# [ Reasons ]
 This time there were actual reasons to make and upload publicly this FREE VERSION of this EPIC CLIENT
 </div>
 
@@ -40,7 +40,7 @@ This time there were actual reasons to make and upload publicly this FREE VERSIO
 
 <div align="center">
 
-# [ how-to ]
+# [ How-To ]
 So how do you install this FREE VERSION of COOL K LOGO CLIENT?
 
 </div>
@@ -55,7 +55,7 @@ So how do you install this FREE VERSION of COOL K LOGO CLIENT?
 
 If you somehow fuck up the instructions then a message box will appear telling you exactly what did you fuck up
 
-# [ notes ]
+# [ Notes ]
 
 </div>
 
@@ -65,7 +65,7 @@ If you somehow fuck up the instructions then a message box will appear telling y
 
 <div align="center">
 
-# [ credits ]
+# [ Credits ]
 
 </div>
 
