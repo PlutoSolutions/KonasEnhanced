@@ -8,7 +8,8 @@ mirrors:
 
 [yougame.biz](https://yougame.biz/threads/224924/) / [crystalpvp.ru](https://crystalpvp.ru/konas/) / [plutonium.wtf](https://plutonium.wtf/konas/)
 
-#
+# [KONAS REWRITE AVAILABLE NOW FOR FREE](https://github.com/PlutoSolutions/KonasRewrite)
+
 # [ info ]
 Long awaited (not really) free version of [Konas Client](https://konasclient.com/)
 
