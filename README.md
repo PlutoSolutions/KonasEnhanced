@@ -8,6 +8,8 @@ mirrors:
 
 [yougame.biz](https://yougame.biz/threads/224924/) / [crystalpvp.ru](https://crystalpvp.ru/konas/) / [plutonium.wtf](https://plutonium.wtf/konas/)
 
+[plutosolutions telegram](https://t.me/plutosolutions)
+
 # [KONAS REWRITE AVAILABLE NOW FOR FREE](https://github.com/PlutoSolutions/KonasRewrite)
 
 # [ info ]
