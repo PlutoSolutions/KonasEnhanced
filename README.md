@@ -2,7 +2,7 @@
 
 Konas Client (free & enhanced edition)
 
-![](https://crystalpvp.ru/konas/jewnas.png)
+![](https://crystalpvp.ru/konas/konaslogo.png)
 
 mirrors:
 
@@ -72,7 +72,7 @@ If you somehow fuck up the instructions then a message box will appear telling y
 
 </div>
 
-+ Konas developers - for being retarded, pasting public code and somehow making it worse
++ Konas developers - pasting public code and somehow making it worse
 + [mrnv/ayywareseller](https://github.com/mr-nv) - for dedicating time to create this FREE AND ENHANCED version of KONAS CLAIENT
 + [YourSleep/3jq](https://github.com/3jq) - providing an account, helping with resources
 + [PigHax](https://github.com/oyzipfile) - for attempting to demotivate me
